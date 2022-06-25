@@ -1,5 +1,5 @@
 {% set name = "types-PyYAML" %}
-{% set version = "6.0.8" %}
+{% set version = "6.0.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-PyYAML-{{ version }}.tar.gz
-  sha256: d9495d377bb4f9c5387ac278776403eb3b4bb376851025d913eea4c22b4c6438
+  sha256: 33ae75c84b8f61fddf0c63e9c7e557db9db1694ad3c2ee8628ec5efebb5a5e9b
 
 build:
   number: 0
