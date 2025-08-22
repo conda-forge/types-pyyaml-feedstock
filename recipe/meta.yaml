@@ -1,4 +1,4 @@
-{% set version = "6.0.12.20250809" %}
+{% set version = "6.0.12.20250822" %}
 
 package:
   name: types-pyyaml
@@ -6,7 +6,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/t/types-pyyaml/types_pyyaml-{{ version }}.tar.gz
-    sha256: af4a1aca028f18e75297da2ee0da465f799627370d74073e96fee876524f61b5
+    sha256: 259f1d93079d335730a9db7cff2bcaf65d7e04b4a56b5927d49a612199b59413
   - url: https://raw.githubusercontent.com/python/typeshed/main/LICENSE
     sha256: 295f8538c94ae5c3043301cf7cff1c852dab6a786a8ddee471e061b40d5ecabe
 
