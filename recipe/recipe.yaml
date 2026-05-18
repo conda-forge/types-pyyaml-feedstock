@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "6.0.12.20260510"
+  version: "6.0.12.20260518"
 
 package:
   name: types-pyyaml
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-pyyaml/types_pyyaml-${{ version }}.tar.gz
-  sha256: 09c1f1cb65a6eebea1e2e51ccf4918b8288e152909609a35cdb0d805efd125ad
+  sha256: d917f83fb38462550338c1297faedd860b3ec83912b96b1e3d73255f7473e466
 
 build:
   number: 0
